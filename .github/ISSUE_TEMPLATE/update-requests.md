@@ -1,9 +1,9 @@
 ---
-name: Update Requests
-about: Request updates/uploads to modules
-title: "[MODULE ID]"
-labels: enhancement
-assignees: camcribs
+name: Update 2P8 2023 crib
+about: Incomplete crib
+title: "2P8 2023 Tripos Paper"
+labels: Full crib is found under 'answers' on CUED website. Current crib only has section A, not all sections.
+assignees: B. Smith
 
 ---
 
